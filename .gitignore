@@ -1,0 +1,6 @@
+extractor/__pycache__
+api/__pycache__
+utils/__pycache__
+api/migrations
+db.sqlite3
+utils.py
